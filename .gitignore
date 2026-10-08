@@ -1,0 +1,15 @@
+.gradle/
+build/
+out/
+.idea/
+*.iws
+*.iml
+*.ipr
+.DS_Store
+Thumbs.db
+
+# На всякий случай для вложенной папки
+server1/.gradle/
+server1/build/
+server1/out/
+server1/server1.iml
